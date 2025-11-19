@@ -85,3 +85,8 @@ tags
 /contrib/result-*
 
 CMakeUserPresets.json
+bak
+bin
+build*
+obj
+share
